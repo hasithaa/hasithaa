@@ -39,6 +39,12 @@ I enjoy writing about my experiences with Ballerina and exploring its capabiliti
 
 I also have a personal website [hasithaa.github.io](https://hasithaa.github.io) where I share my thoughts on various topics, and aggregate my blog posts and other content on the web.
 
+### External Blogs
+
+<a href="https://medium.com/@hasithaaravinda" target="_blank" rel="noopener noreferrer me" title="Medium" ><img src="https://img.icons8.com/ios-glyphs/30/null/medium-logo.png" alt="medium"/></a>
+<a href="https://dev.to/hasitha" target="_blank" rel="noopener noreferrer me" title="Dev" ><img src="https://img.icons8.com/windows/32/null/dev.png" alt="Dev"/></a>
+
+
 ---
 
 ### 🚀 Projects
@@ -88,3 +94,5 @@ Java4BPEL is an extension for Apache ODE and WSO2 BPS that I developed. It intro
 The MetCat project was aimed at developing a metadata catalog that could be integrated with the Apache Airavata project. The project's primary focus was on capturing metadata from workflows and assisting in scalable metadata management and user-defined queries. While the project is now deprecated, it was a valuable learning experience and an opportunity to contribute to the development of an important tool in the scientific community. 
 
 ---
+
+Icons from https://icons8.com/
