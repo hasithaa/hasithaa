@@ -4,7 +4,7 @@
 
 Architect at [WSO2](https://wso2.com) Integration BU and Compiler Developer at [Ballerina Platform](https://github.com/ballerina-platform/). BSc in Computer Science and Engineering (Hons) from the University of Moratuwa, Sri Lanka. 13+ years building programming languages, compilers, and integration middleware.
 
-🌐 [hasithaa.github.io](https://hasithaa.github.io) · [LinkedIn](https://www.linkedin.com/in/hasithaaravinda/) · [Twitter / X](https://twitter.com/HasithaAravinda)
+🌐 [hasithaa.github.io](https://hasithaa.github.io) · [LinkedIn](https://www.linkedin.com/in/hasithaaravinda/) · [X](https://x.com/HasithaAravinda)
 
 ---
 
