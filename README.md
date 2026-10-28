@@ -1,40 +1,20 @@
 # Hasitha Aravinda
 
-**Architect · Compiler Developer**
+Architect at [WSO2](https://wso2.com) and compiler developer for [Ballerina](https://ballerina.io).
 
-Architect at [WSO2](https://wso2.com) Integration BU and Compiler Developer at [Ballerina Platform](https://github.com/ballerina-platform/). BSc in Computer Science and Engineering (Hons) from the University of Moratuwa, Sri Lanka. 13+ years building programming languages, compilers, and integration middleware.
+I lead the design of **Durable Workflow** in WSO2 Integrator: long-running processes that wait for people, events and AI agents, and keep going after restarts. Try it with the [demos](https://hasithaa.github.io/workflows/).
 
-🌐 [hasithaa.github.io](https://hasithaa.github.io) · [LinkedIn](https://www.linkedin.com/in/hasithaaravinda/) · [X](https://x.com/HasithaAravinda)
+[Website](https://hasithaa.github.io) · [YouTube](https://www.youtube.com/@BeyondIntegrations) · [Medium](https://hasithaaravinda.medium.com) · [LinkedIn](https://www.linkedin.com/in/hasithaaravinda/) · [X](https://x.com/HasithaAravinda)
 
----
+### Work
 
-### Projects
+- **[Durable Workflow](https://hasithaa.github.io/projects/#durable-workflow)**: the [`ballerina/workflow`](https://github.com/ballerina-platform/module-ballerina-workflow) module, human tasks, durable agents and the low-code designer in WSO2 Integrator.
+- **[Agent-Flavored Markdown](https://github.com/wso2/agent-flavored-markdown)**: portable AI agents defined in Markdown. I started it as [a prototype](https://github.com/hasithaa/afm); [paper at IUI 2026 AgentCraft](https://ceur-ws.org/Vol-4266/paper03.pdf).
+- **[Ballerina](https://github.com/ballerina-platform/ballerina-lang)**: compiler and [language specification](https://ballerina.io/spec/lang/master), since 2016.
 
-**[Ballerina Workflow](https://github.com/ballerina-platform/module-ballerina-workflow)** · 2026–Present
-> Workflow orchestration for Ballerina and WSO2 Integrator.
+### Recent
 
-**[WSO2 Integrator : BI](https://wso2.com/integrator/ballerina-integrator/)** · 2024–2025
-> Low-code and pro-code integration tool built on Ballerina. Led design and architecture.
+- [Workflows That Wait for People](https://youtu.be/_b84Ndbk1H8) (video) and [the article](https://hasithaaravinda.medium.com/workflows-that-wait-for-people-8ac3b5fc3635)
+- [Agentic Claim Approval Workflow: An AI Agent That Follows the Policy](https://youtu.be/XFb49Koodf8) (video)
 
-**[Ballerina Language & Compiler](https://github.com/ballerina-platform/ballerina-lang)** · 2016–Present
-> Compiler development and [language specification](https://ballerina.io/spec/lang/master) design from day one.
-
-**[WSO2 Business Process Server](https://github.com/wso2/carbon-business-process)** · 2012–2016
-> BPMN, WS-BPEL, and WS-HumanTask execution engine. Developer and release manager.
-
-**[Java4BPEL](https://github.com/hasithaa/java4bpel)** · Side Project
-> BPEL extension activity for invoking Java libraries within workflows.
-
----
-
-### Blog & Talks
-
-- [From Visual Flows to Power Programming: The Ballerina Integrator Journey](https://hasithaa.github.io/blog/2025/wso2con-ballerina-integrator/) — WSO2Con Barcelona 2025
-- [Programming Languages and Compilers](https://hasithaa.github.io/blog/2025/wso2-tech-conf-compilers/) — WSO2 Technology Conference 2025
-- [Introduction to Ballerina](https://hasithaa.github.io/blog/2022/meetup/) — CodeSeekers Meetup 2022
-
-[All posts →](https://hasithaa.github.io/blog/)
-
----
-
-`Ballerina` · `Compiler Design` · `Language Specification` · `Developer Experience` · `Low-Code` · `Pro-Code Editors` · `Integrations` · `Java` · `WS-BPEL` · `BPMN`
+More on the [portfolio](https://hasithaa.github.io/projects/) and in [writing & talks](https://hasithaa.github.io/blog/).
